@@ -1,0 +1,10 @@
+body{
+  background-color: #B2B1B9;
+}
+/* Particle effect*/
+#home,
+#particles-js {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+}
