@@ -4,7 +4,7 @@ body{
 /* Particle effect*/
 #home,
 #particles-js {
+  box-sizing: border-box;
   position: relative;
-  height: 100vh;
   width: 100%;
 }
