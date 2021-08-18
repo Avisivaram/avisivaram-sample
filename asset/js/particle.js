@@ -81,10 +81,6 @@ particlesJS('particles-js', {
 				enable: true,
 				mode: 'repulse'
 			},
-			onchange: {
-				enable:true,
-				mode:'repulse'
-			}
 		},
 		modes: {
 			'repulse' : {
