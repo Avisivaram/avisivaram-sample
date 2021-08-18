@@ -80,6 +80,10 @@ particlesJS('particles-js', {
 			onclick: {
 				enable: true,
 				mode: 'repulse'
+			},
+			onchange: {
+				enable:true,
+				mode:'repulse'
 			}
 		},
 		modes: {
@@ -87,9 +91,6 @@ particlesJS('particles-js', {
 				distance: 70,
 				duration: 0.4
 			},
-			'push' : {
-				particles_nb: 4
-			}
 		}
 	},
 	retina_detect: true
